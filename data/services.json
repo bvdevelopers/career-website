@@ -60,7 +60,7 @@
       "id": 8,
       "name": "Visa Assistance",
       "description": "Complete visa documentation and interview preparation",
-      "icon": "Passport",
+      "icon": "Globe",
       "color": "bg-indigo-50",
       "link": "/services/visa"
     }

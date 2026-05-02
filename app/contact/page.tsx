@@ -121,7 +121,7 @@ export default function Contact() {
               width="100%"
               height="100%"
               style={{ border: 0 }}
-              allowFullScreen=""
+              allowFullScreen={true}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />
@@ -148,7 +148,7 @@ export default function Contact() {
               transition={{ delay: 0.1 }}
               className="text-lg text-gray-600"
             >
-              Fill out the form below and we'll get back to you as soon as possible.
+              Fill out the form below and we will get back to you as soon as possible.
             </motion.p>
           </div>
 

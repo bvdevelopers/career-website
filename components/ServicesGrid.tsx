@@ -40,7 +40,7 @@ export default function ServicesGrid({ services, columns = 4 }: ServicesGridProp
       Briefcase: Icons.Briefcase,
       DollarSign: Icons.DollarSign,
       Star: Icons.Star,
-      Passport: Icons.Passport,
+      Globe: Icons.Globe,
     };
     return iconMap[iconName] || Icons.Zap;
   };
