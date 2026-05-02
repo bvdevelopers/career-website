@@ -1,0 +1,76 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "flag": "🇺🇸",
+      "universities": 50,
+      "programs": "Engineering, Management, IT",
+      "studentsPlaced": 450,
+      "link": "/destinations/united-states"
+    },
+    {
+      "id": 2,
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "universities": 35,
+      "programs": "Engineering, MBA, Medicine",
+      "studentsPlaced": 320,
+      "link": "/destinations/united-kingdom"
+    },
+    {
+      "id": 3,
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "universities": 30,
+      "programs": "Engineering, IT, Business",
+      "studentsPlaced": 280,
+      "link": "/destinations/canada"
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "universities": 28,
+      "programs": "Engineering, Science, Business",
+      "studentsPlaced": 250,
+      "link": "/destinations/australia"
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "universities": 25,
+      "programs": "Engineering, Science, Technology",
+      "studentsPlaced": 180,
+      "link": "/destinations/germany"
+    },
+    {
+      "id": 6,
+      "name": "Ireland",
+      "flag": "🇮🇪",
+      "universities": 20,
+      "programs": "IT, Engineering, Business",
+      "studentsPlaced": 150,
+      "link": "/destinations/ireland"
+    },
+    {
+      "id": 7,
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "universities": 15,
+      "programs": "Engineering, Business, Science",
+      "studentsPlaced": 120,
+      "link": "/destinations/singapore"
+    },
+    {
+      "id": 8,
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "universities": 18,
+      "programs": "Engineering, Science, MBA",
+      "studentsPlaced": 130,
+      "link": "/destinations/netherlands"
+    }
+  ]
+}

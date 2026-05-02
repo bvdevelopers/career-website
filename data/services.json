@@ -1,0 +1,68 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Study Abroad",
+      "description": "Get placed in top universities across the USA, UK, Canada, Australia and more",
+      "icon": "GraduationCap",
+      "color": "bg-blue-50",
+      "link": "/services/study-abroad"
+    },
+    {
+      "id": 2,
+      "name": "Study India",
+      "description": "Premium guidance for top engineering, medical, and management colleges",
+      "icon": "BookOpen",
+      "color": "bg-green-50",
+      "link": "/services/study-india"
+    },
+    {
+      "id": 3,
+      "name": "MBBS Abroad",
+      "description": "Direct admission to accredited MBBS programs internationally",
+      "icon": "Stethoscope",
+      "color": "bg-red-50",
+      "link": "/services/mbbs-abroad"
+    },
+    {
+      "id": 4,
+      "name": "MBBS India",
+      "description": "Complete guidance for NEET preparation and medical college admission",
+      "icon": "Heart",
+      "color": "bg-pink-50",
+      "link": "/services/mbbs-india"
+    },
+    {
+      "id": 5,
+      "name": "Placement Services",
+      "description": "Direct job placement opportunities in India and abroad",
+      "icon": "Briefcase",
+      "color": "bg-yellow-50",
+      "link": "/services/placement"
+    },
+    {
+      "id": 6,
+      "name": "Education Loan",
+      "description": "Easy loan processing for studying abroad with minimal documentation",
+      "icon": "DollarSign",
+      "color": "bg-purple-50",
+      "link": "/services/education-loan"
+    },
+    {
+      "id": 7,
+      "name": "Scholarships",
+      "description": "Find and apply for scholarships across the world",
+      "icon": "Star",
+      "color": "bg-orange-50",
+      "link": "/services/scholarships"
+    },
+    {
+      "id": 8,
+      "name": "Visa Assistance",
+      "description": "Complete visa documentation and interview preparation",
+      "icon": "Passport",
+      "color": "bg-indigo-50",
+      "link": "/services/visa"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stats": [
+    {
+      "number": 5000,
+      "label": "Students Guided",
+      "suffix": "+"
+    },
+    {
+      "number": 150,
+      "label": "Partner Universities",
+      "suffix": "+"
+    },
+    {
+      "number": 25,
+      "label": "Countries Covered",
+      "suffix": "+"
+    },
+    {
+      "number": 98,
+      "label": "Success Rate",
+      "suffix": "%"
+    }
+  ]
+}

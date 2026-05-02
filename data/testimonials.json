@@ -1,0 +1,64 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Priya Sharma",
+      "role": "MIT Graduate",
+      "location": "Boston, USA",
+      "image": "👩‍🎓",
+      "text": "AbilisPath made my dream of studying at MIT a reality. Their guidance throughout the entire process was invaluable.",
+      "rating": 5,
+      "service": "Study Abroad"
+    },
+    {
+      "id": 2,
+      "name": "Arjun Kumar",
+      "role": "Cambridge University",
+      "location": "Cambridge, UK",
+      "image": "👨‍🎓",
+      "text": "Exceptional support from start to finish. The visa interview preparation was brilliant!",
+      "rating": 5,
+      "service": "Study Abroad"
+    },
+    {
+      "id": 3,
+      "name": "Sneha Desai",
+      "role": "Medical Graduate",
+      "location": "Dublin, Ireland",
+      "image": "👩‍⚕️",
+      "text": "Got direct admission to medical school in Dublin. The MBBS abroad program is highly effective.",
+      "rating": 5,
+      "service": "MBBS Abroad"
+    },
+    {
+      "id": 4,
+      "name": "Rohan Patel",
+      "role": "IIT-B Graduate",
+      "location": "Mumbai, India",
+      "image": "👨‍💻",
+      "text": "Perfect guidance for engineering entrance exams. Now placed at a top tech company!",
+      "rating": 5,
+      "service": "Study India"
+    },
+    {
+      "id": 5,
+      "name": "Ananya Singh",
+      "role": "Software Engineer",
+      "location": "Bangalore, India",
+      "image": "👩‍💼",
+      "text": "Their placement service got me placed within 3 months. Highly professional team!",
+      "rating": 5,
+      "service": "Placement"
+    },
+    {
+      "id": 6,
+      "name": "Vikram Reddy",
+      "role": "MBA Canada",
+      "location": "Toronto, Canada",
+      "image": "👨‍💼",
+      "text": "Got scholarship worth 50% tuition. Their scholarship finder is incredibly helpful.",
+      "rating": 5,
+      "service": "Scholarships"
+    }
+  ]
+}

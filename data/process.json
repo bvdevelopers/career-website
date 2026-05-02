@@ -1,0 +1,34 @@
+{
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation",
+      "description": "Free one-on-one consultation to understand your goals and requirements."
+    },
+    {
+      "step": 2,
+      "title": "Profile Assessment",
+      "description": "Comprehensive evaluation of your academics, skills, and career aspirations."
+    },
+    {
+      "step": 3,
+      "title": "University Shortlisting",
+      "description": "Personalized list of universities matching your profile and goals."
+    },
+    {
+      "step": 4,
+      "title": "Application Support",
+      "description": "Guidance on application preparation, essays, and document submission."
+    },
+    {
+      "step": 5,
+      "title": "Visa Processing",
+      "description": "Complete visa application support and interview preparation."
+    },
+    {
+      "step": 6,
+      "title": "Pre-Departure",
+      "description": "Final guidance on accommodation, travel, and settling abroad."
+    }
+  ]
+}
